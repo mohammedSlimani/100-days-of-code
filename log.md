@@ -25,6 +25,10 @@ I am planning to do some Java back end developement for my J2EE app.
 **Today's Progress**: I solved 49 coding challenge on the FCC plateform.
 
 **Thoughts:** Learned Bootstrap and jQuery. 
-
 **Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
 
+### Day 4: January 17, 2019
+**Today's Progress**: I solved 9 coding challenge on the FCC plateform, Contnuined on building my side project maquette. 
+
+**Thoughts:** Learned Sass. And I am focusing more on building my maquettes for my side project. I thought it would be easy to do so, but it turned out to be one of the most challenging tasks.   
+**Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
