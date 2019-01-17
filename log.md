@@ -14,9 +14,17 @@
 **Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
 
 
-### Day 1: January 14, 2019
+### Day 2: January 15, 2019
 **Today's Progress**: I solved 32 coding challenge on the FCC plateform.
 
 **Thoughts:** Learned the regex in javascript. I'm seeing why they are being considered one of the most skills that a software developer should acquire (accourding to the techlead https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw ). 
 I am planning to do some Java back end developement for my J2EE app. 
 **Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
+
+### Day 3: January 16, 2019
+**Today's Progress**: I solved 49 coding challenge on the FCC plateform.
+
+**Thoughts:** Learned Bootstrap and jQuery. 
+
+**Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
+
