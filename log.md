@@ -32,3 +32,9 @@ I am planning to do some Java back end developement for my J2EE app.
 
 **Thoughts:** Learned Sass. And I am focusing more on building my maquettes for my side project. I thought it would be easy to do so, but it turned out to be one of the most challenging tasks.   
 **Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
+
+### Day 5: January 18, 2019
+**Today's Progress**: I complete the mock-up version of my website. 
+
+**Thoughts:** The bootstrap and javascript I learned at FCC helped me a lot. I thought it would be an easy job but it wasn't.   
+**Link to work:** [Tournament App] https://github.com/mohammedSlimani/tournament 
