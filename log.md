@@ -38,3 +38,10 @@ I am planning to do some Java back end developement for my J2EE app.
 
 **Thoughts:** The bootstrap and javascript I learned at FCC helped me a lot. I thought it would be an easy job but it wasn't.   
 **Link to work:** [Tournament App] https://github.com/mohammedSlimani/tournament 
+
+
+### Day 6: January 19, 2019
+**Today's Progress**: I have done 48 coding challenge, all about javascript in FCC
+
+**Thoughts:** Some concepts in Js are not obvious. I get mind blown everytime :) 
+**Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
