@@ -45,3 +45,10 @@ I am planning to do some Java back end developement for my J2EE app.
 
 **Thoughts:** Some concepts in Js are not obvious. I get mind blown everytime :) 
 **Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
+
+
+### Day 7: January 20, 2019
+**Today's Progress**: I have done 24 coding challenge, all about javascript in FCC
+
+**Thoughts:** I am looking at the #JavaScript30 And It is looking deliciouuuuuuuus. I have to take it.
+**Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
