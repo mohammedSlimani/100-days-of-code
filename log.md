@@ -52,3 +52,15 @@ I am planning to do some Java back end developement for my J2EE app.
 
 **Thoughts:** I am looking at the #JavaScript30 And It is looking deliciouuuuuuuus. I have to take it.
 **Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
+
+### Day 8: January 22, 2019
+**Today's Progress**: Learned mor about the functional programming in JS.
+
+**Thoughts:** Functional programming is a good way to code. Pure functions are the best xD.
+**Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
+
+### Day 9: January 23, 2019
+**Today's Progress**: I have done 20+ Js coding challenge. And I am going to start my back-end of the JavaEE webApp
+
+**Thoughts:** I am really excited, If only I didn't have to do that web app I would chave completed my js certificate by tomorrow.
+**Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
