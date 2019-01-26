@@ -64,3 +64,17 @@ I am planning to do some Java back end developement for my J2EE app.
 
 **Thoughts:** I am really excited, If only I didn't have to do that web app I would chave completed my js certificate by tomorrow.
 **Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
+
+
+### Day 10: January 24, 2019
+**Today's Progress**: Worked on the back-end of my webapp
+
+**Thoughts:** I have really underestimated the work that even a simple web app requires.
+**Link to work:** [Tournament App] https://github.com/mohammedSlimani/tournament 
+
+
+### Day 11: January 24, 2019
+**Today's Progress**: worked more on my webapp 
+
+**Thoughts:** This is really some cools stuff.I am learning more and more. SpongMode= "ON"
+**Link to work:** [Tournament App] https://github.com/mohammedSlimani/tournament 
