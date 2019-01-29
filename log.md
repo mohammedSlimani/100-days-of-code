@@ -73,8 +73,15 @@ I am planning to do some Java back end developement for my J2EE app.
 **Link to work:** [Tournament App] https://github.com/mohammedSlimani/tournament 
 
 
-### Day 11: January 24, 2019
+### Day 11: January 25, 2019
 **Today's Progress**: worked more on my webapp 
 
 **Thoughts:** This is really some cools stuff.I am learning more and more. SpongMode= "ON"
+**Link to work:** [Tournament App] https://github.com/mohammedSlimani/tournament 
+
+
+### Day 12-13: January 27-28, 2019
+**Today's Progress**: worked more on my webapp. I did some awesome Job. I am really proud of myself 
+
+**Thoughts:** Got to play with Hibernate and it is a savior. I feel saved. One or more two more days and I will be able to do my Javascript stuff. I am so happy. I am gonna sleep now. And It is gonna feel like heaven. FUCK YEAH!!
 **Link to work:** [Tournament App] https://github.com/mohammedSlimani/tournament 
