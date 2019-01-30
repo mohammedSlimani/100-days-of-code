@@ -85,3 +85,9 @@ I am planning to do some Java back end developement for my J2EE app.
 
 **Thoughts:** Got to play with Hibernate and it is a savior. I feel saved. One or more two more days and I will be able to do my Javascript stuff. I am so happy. I am gonna sleep now. And It is gonna feel like heaven. FUCK YEAH!!
 **Link to work:** [Tournament App] https://github.com/mohammedSlimani/tournament 
+
+### Day 14: January 29, 2019
+**Today's Progress**: Finished my J2EE app
+
+**Thoughts:** It is not that much but it is some honest work. I am really proud of. I feel like I could do a lot more if I was allowed to use frameworks.
+**Link to work:** [Tournament App] https://github.com/mohammedSlimani/tournament 
