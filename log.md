@@ -91,3 +91,10 @@ I am planning to do some Java back end developement for my J2EE app.
 
 **Thoughts:** It is not that much but it is some honest work. I am really proud of. I feel like I could do a lot more if I was allowed to use frameworks.
 **Link to work:** [Tournament App] https://github.com/mohammedSlimani/tournament 
+
+
+### Day 15: January 30, 2019
+**Today's Progress**: Last day of J2EE web app
+
+**Thoughts:** It was fun to do something from scratch and develop it. I also enjoyed the fact that I made it work. :)
+**Link to work:** [Tournament App] https://github.com/mohammedSlimani/tournament 
