@@ -98,3 +98,23 @@ I am planning to do some Java back end developement for my J2EE app.
 
 **Thoughts:** It was fun to do something from scratch and develop it. I also enjoyed the fact that I made it work. :)
 **Link to work:** [Tournament App] https://github.com/mohammedSlimani/tournament 
+
+### Day 16: January 31, 2019
+**Today's Progress**: Learner more on js 
+
+**Thoughts:** Solved some problems.
+**Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
+
+### Day 17: february 01, 2019
+**Today's Progress**: Learner more on js 
+
+**Thoughts:** Solved some problems.
+**Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
+
+### Day 18: February, 2019
+**Today's Progress**: Claimed my JS certificate.
+
+**Thoughts:** I am feeling so confident in my Js skills.
+**Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
+
+
