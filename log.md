@@ -117,4 +117,31 @@ I am planning to do some Java back end developement for my J2EE app.
 **Thoughts:** I am feeling so confident in my Js skills.
 **Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
 
+### Day 19: feb 03, 2019
+**Today's Progress**: Started Learning ReactJS 
 
+**Thoughts:** I am in love with REACTJS!
+**Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
+
+### Day 20: feb 04, 2019
+**Today's Progress**: Learning ReactJS 
+
+**Thoughts:** GIMMMMMMEEEEEEE MORE REACT!!!!!!!!!
+**Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
+
+### Day 21: feb 05, 2019
+**Today's Progress**: Started Learning REDUX 
+
+**Thoughts:** I see how usefull Redux can be specially when The app gets big <3 
+**Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
+
+### Day 22: feb 07, 2019
+**Today's Progress**: Android Accessibility 
+
+**Thoughts:** Attended an Android Accessibility Talk about how making my app usabale by other people no matter what their needs is, is a very good thing to do. 
+
+### Day 23: feb 08, 2019
+**Today's Progress**: React-Redux
+
+**Thoughts:** GIMMMMMMMMMME more!!!!!!!!!!!!!!
+**Link to work:** [Free Code Camp] https://www.freecodecamp.org/tromastrom
